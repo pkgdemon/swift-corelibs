@@ -1,0 +1,3 @@
+[submodule "swift-corelibs-libdispatch"]
+	path = swift-corelibs-libdispatch
+	url = https://github.com/swiftlang/swift-corelibs-libdispatch
